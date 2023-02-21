@@ -1,5 +1,3 @@
-# Documentation
-
 ## Kest
 
 Kest is a framework written in Kotlin for testing your backends.
